@@ -75,5 +75,3 @@ THREATS:\
 	["DictKey_UnitName_130"] = "New Static Object #015",
 	["DictKey_WptName_154"] = "",
 } -- end of dictionary
-
--- Migration verification 2026-10-29: API and OIDC.
