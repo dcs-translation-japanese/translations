@@ -75,3 +75,5 @@ THREATS:\
 	["DictKey_UnitName_130"] = "New Static Object #015",
 	["DictKey_WptName_154"] = "",
 } -- end of dictionary
+
+-- Stage 4 WebUI migration verification; do not merge.
