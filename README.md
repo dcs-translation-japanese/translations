@@ -2,8 +2,8 @@
 
 Eagle Dynamics社 Digital Combat Simulator Worldのミッション・キャンペーンを日本語化する非公式プロジェクトです。
 
-- ツールが利用できます [DCS Translation Tool](https://github.com/5kdn/DCS-Translation-Tool/releases/latest)
-- ブラウザからファイルをDLする場合は[ダウンロードページ](https://5kdn.github.io/DCS-Translation-Japanese-Downloader/)が利用できます
+- ツールが利用できます [DCS Translation Tool](https://github.com/dcs-translation-japanese/DCS-Translation-Tool/releases/latest)
+- ブラウザからファイルをDLする場合は[ダウンロードページ](https://dcs-translation-japanese.github.io/WebUI/)が利用できます
 
 ## 翻訳ファイルのダウンロード・mizファイルの適用
 
@@ -11,7 +11,7 @@ Eagle Dynamics社 Digital Combat Simulator Worldのミッション・キャン�
 
 #### ツールを使用する
 
-1. ツールをダウンロードしてください。 [DCS Translation Tool](https://github.com/5kdn/DCS-Translation-Tool/releases/latest)
+1. ツールをダウンロードしてください。 [DCS Translation Tool](https://github.com/dcs-translation-japanese/DCS-Translation-Tool/releases/latest)
 2. ツール上のダウンロードページで `DL` ボタンを押すとチェックマークの付いたファイルをダウンロードできます。
 3. ツール上のダウンロードページで `適用` ボタンを押すとミッションファイルに自動で挿入されます。
 
@@ -19,7 +19,7 @@ Eagle Dynamics社 Digital Combat Simulator Worldのミッション・キャン�
 
 #### ツールを使用しない
 
-1. [ダウンロードページ](https://5kdn.github.io/DCS-Translation-Japanese-Downloader/) からブラウザ上でファイルをDLできます。
+1. [ダウンロードページ](https://dcs-translation-japanese.github.io/WebUI/) からブラウザ上でファイルをDLできます。
 2. ダウンロードしたzip内の `*.miz` フォルダの内容を同名のDCSのファイルに追加してください。
 
 ※ DCSのミッションファイル(`*.miz`)は拡張子をzipに書き換えることでzipファイルとして扱うことが可能です。
@@ -41,7 +41,7 @@ Windows, Powershell環境を想定しています。
 
 ### Git を触ったことがない方向け
 
-1. ツールをダウンロードしてください。 [DCS Translation Tool](https://github.com/5kdn/DCS-Translation-Tool/releases/latest)
+1. ツールをダウンロードしてください。 [DCS Translation Tool](https://github.com/dcs-translation-japanese/DCS-Translation-Tool/releases/latest)
 2. ツールのアップロードページで作成した翻訳ファイルを選択し、 `PRを作成` ボタンを押してください。
 3. ダイアログに必要な情報を記入して、`PRを作成` ボタンを押してください。
 4. 確認後、変更が取り込まれます。
