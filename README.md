@@ -31,11 +31,11 @@ Windows, Powershell環境を想定しています。
 1. リポジトリの取得
 
    ``` powershell
-   git clone git@github.com:5kdn/DCS-Translation-Japanese.git
+   git clone git@github.com:dcs-translation-japanese/translations.git
    ```
 
 2. 対象ディレクトリの中身を全てを対象の `*.miz` ファイルに追加してください。 \
-   (例: `DCS-Translation-Japanese/DCSWorld/Mods/aircraft/A-10C/Campaigns/01_A10Sturm.miz/*` )
+   (例: `translations/DCSWorld/Mods/aircraft/A-10C/Campaigns/01_A10Sturm.miz/*` )
 
 ## 翻訳ファイルのアップロード
 
@@ -46,7 +46,7 @@ Windows, Powershell環境を想定しています。
 3. ダイアログに必要な情報を記入して、`PRを作成` ボタンを押してください。
 4. 確認後、変更が取り込まれます。
 
-※ 取り込まれる前に確認したい場合、<https://github.com/5kdn/DCS-Translation-Japanese/pulls> から確認することができます
+※ 取り込まれる前に確認したい場合、<https://github.com/dcs-translation-japanese/translations/pulls> から確認することができます
 
 ### Git を触ったことが有る方向け
 
@@ -55,7 +55,7 @@ Windows, Powershell環境を想定しています。
 1. リポジトリの取得
 
    ```powershell
-   git clone git@github.com:5kdn/DCS-Translation-Japanese.git
+   git clone git@github.com:dcs-translation-japanese/translations.git
    # git hooksをリポジトリに適用
    git config --local core.hooksPath .githooks
    ```
